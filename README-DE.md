@@ -41,4 +41,10 @@ Trackings.
 Du änderst dich. Lass dir doch einfach aus der flexiblen Lebensgestaltung
 sagen, was dir am besten getan hat !
 
+Ja natürlich wird alles Open-Source.
+
+Und ja wir wollen eventuell auch weitere Hardware nutzen wie
+Herzmonitoring/Schrittzähler und in weitere Apps integrieren.
+Öffnet dorch schonmal Bug reports was euch wichtig ist :-)
+
 # Screens
