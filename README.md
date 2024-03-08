@@ -80,7 +80,27 @@ Example modules
             food
             location GPS ?
 
+    Teeth_Check:
+        When biting your teeth which one move ?
 
+    Gum check:
+        recession ?
+
+    Blood suggar level prediction based on food
+        (maybe with measurement)
+
+    sauna walks reminder
+
+
+TestBrainHealthGrayPattern
+    show gray patterns which can hardly be seen.
+    The better your blood flow the faster your reception
+
+TestBrainHealthRecall
+    Show 30 image pairs (very fast)
+    Then ask whether pairs were shown together?
+    Number of failures and/or recall time 
+    -> health
 
 SOURCES:
 https://www.naehrwertrechner.de/
