@@ -86,6 +86,12 @@ Example modules
     Gum check:
         recession ?
 
+    Stretch Check
+
+    Custom Check
+
+    CooperTest Check
+
     Blood suggar level prediction based on food
         (maybe with measurement)
 
